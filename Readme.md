@@ -9,3 +9,4 @@ some changes to make conflict
 Again changes but this time from GitBASH - Edit from web...
 
 Again conflict but from master branch
+Creating a conflict AGAIN!
